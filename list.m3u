@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1,Nombre del primer canal
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=aWjRuBTCkiHy8OQGqGhm6bS28mNE5MKt&sid=CDsLuOYet8Pe8D4aKnuX9RCk2RNWOXVN&pid=oWyw0XwZJGDsL5WrECDOOe7DACFyBfDG&an=screen&at=web-app&av=v5.2.345&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=2138x1203&without_cookies=false&listenerid=&dnt=true&access_token=rSwDIFitntcjj8PHnvjdA30vFdkuGPqxYosfzwzsEqQimV8vmnAXrcF0bS9pyzz9dbaCacMUAFw
+#EXTINF:-1,americatv
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=aWjRuBTCkiHy8OQGqGhm6bS28mNE5MKt&sid=CDsLuOYet8Pe8D4aKnuX9RCk2RNWOXVN&pid=rAGZDp6bw21xB4YPsvu3y8494YNyDw0q&an=screen&at=web-app&av=v5.2.345&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=2138x1203&without_cookies=false&listenerid=&dnt=true&access_token=uoZUAPeVE5bEwESvEscHCDWFuqsRdAMtAQ5c6wIuOSXmWMiL5bMCefPx17Ztj5jhrteFMxIVweI
 #EXTINF:-1,Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=aWjRuBTCkiHy8OQGqGhm6bS28mNE5MKt&sid=CDsLuOYet8Pe8D4aKnuX9RCk2RNWOXVN&pid=fj4EDLwHtwEwAbHITP52voqB4KUwRWMq&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.345&ref=https%3A%2F%2Fwww.latina.pe%2F&res=703x395&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1,Panamericana
+https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri3XWrJmVd5kpObhNOWgWmoKo3xKz4XWPxGunr_sjYyt1&dmTs=410217&dmV1st=7206ec6c-c01d-4b7c-9611-9cb45937d0db
+#EXTINF:-1,atv
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+#EXTINF:-1,atvNoticias
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+#EXTINF:-1,atvSur
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
